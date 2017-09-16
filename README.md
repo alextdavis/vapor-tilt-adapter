@@ -1,8 +1,8 @@
 # VaporTiltAdapter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/vapor_tilt_adapter`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is the Ruby half of 'tilt-provider', a tool for using template engines supported by Tilt with the Vapor web 
+framework for Swift. The purpose and function of this project is detailed at 
+[alextdavis/tilt-provider](https://github.com/alextdavis/tilt-provider).
 
 ## Installation
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Instructions are provided at [alextdavis/tilt-provider](https://github.com/alextdavis/tilt-provider)
 
 ## Development
 
@@ -32,7 +32,10 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/vapor_tilt_adapter. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+This project is in its infancy, so any contributions are very welcome.
+Bug reports and pull requests are welcome on GitHub at https://github.com/alextdavis/vapor_tilt_adapter. 
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to 
+the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 

@@ -1,0 +1,6 @@
+Metrics/LineLength:
+  Max: 100
+StringLiterals:
+  Enabled: false
+AllCops:
+  TargetRubyVersion: 2.4
