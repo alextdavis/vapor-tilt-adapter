@@ -33,7 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 This project is in its infancy, so any contributions are very welcome.
-Bug reports and pull requests are welcome on GitHub at https://github.com/alextdavis/vapor_tilt_adapter. 
+Bug reports and pull requests are welcome on GitHub at https://github.com/alextdavis/vapor-tilt-adapter. 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to 
 the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
@@ -43,4 +43,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Code of Conduct
 
-Everyone interacting in the VaporTiltAdapter project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/vapor_tilt_adapter/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the VaporTiltAdapter project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/alextdavis/vapor-tilt-adapter/blob/master/CODE_OF_CONDUCT.md).
